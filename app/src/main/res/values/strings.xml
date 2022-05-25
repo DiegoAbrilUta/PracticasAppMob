@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    //Crear variables
+    <string name="editText_hint_rango">Ingrse número</string>
+    <string name="serie_fibonacci">Serie Fibonacci</string>
+    <string name="rango">Rango :</string>
+    <string name="textview">TextView</string>
+    <string name="resultado">Resultado</string>
+    <string name="ejecutar">EJECUTAR</string>
+</resources>
